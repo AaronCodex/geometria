@@ -2,7 +2,7 @@
 public class Triangulo extends FiguraGeometrica {
 	private double a;
 	private double b;
-	private double c;
+	private double c; 
 	
 	public Triangulo(String tipoFigura, double lado1, double lado2, double lado3) {
 		super(tipoFigura);
